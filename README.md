@@ -19,7 +19,7 @@ This project is a beginner-friendly computer vision application that detects han
 ## ▶️ How to Run
 
 1. Clone this repository:
-   git clone https://github.com/your-username/Hand-Sign-Detection.git
+   https://github.com/krishnasharma180/Hand_Sign_Detection.git
    cd Hand-Sign-Detection
 
 2. Run the project:
@@ -32,4 +32,5 @@ This project is a beginner-friendly computer vision application that detects han
 - Basics of OpenCV (video capture, color spaces)
 - Image masking and contour detection
 - Real-time video handling and visualization
+
 
