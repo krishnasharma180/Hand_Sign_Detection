@@ -22,8 +22,7 @@ This project is a beginner-friendly computer vision application that detects han
    https://github.com/krishnasharma180/Hand_Sign_Detection.git
 
 3. Run the project:
-   cd Hand-Sign-Detection
-   python hand_detection.py
+   python Hand_Sign_Detection.py
 
 > Make sure your webcam is connected.
 
@@ -32,6 +31,7 @@ This project is a beginner-friendly computer vision application that detects han
 - Basics of OpenCV (video capture, color spaces)
 - Image masking and contour detection
 - Real-time video handling and visualization
+
 
 
 
